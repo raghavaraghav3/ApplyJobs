@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:/Users/venka/.claude/\" 2>/dev/null || echo \"directory empty or not found\")",
+      "Read(//c/Users/venka/.claude/**)",
+      "Bash(rm \"d:/I/AI/ApplyJobs/.claude/SKILL.md\")"
+    ],
+    "additionalDirectories": [
+      "d:\\I\\AI\\ApplyJobs\\.claude"
+    ]
+  }
+}
